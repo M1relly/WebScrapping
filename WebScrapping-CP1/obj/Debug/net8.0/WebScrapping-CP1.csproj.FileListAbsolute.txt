@@ -1,0 +1,35 @@
+G:\2TDSPF\Advanced Business Development with .NET\WebScrapping-CP1\WebScrapping-CP1\bin\Debug\net8.0\WebScrapping-CP1.exe
+G:\2TDSPF\Advanced Business Development with .NET\WebScrapping-CP1\WebScrapping-CP1\bin\Debug\net8.0\WebScrapping-CP1.deps.json
+G:\2TDSPF\Advanced Business Development with .NET\WebScrapping-CP1\WebScrapping-CP1\bin\Debug\net8.0\WebScrapping-CP1.runtimeconfig.json
+G:\2TDSPF\Advanced Business Development with .NET\WebScrapping-CP1\WebScrapping-CP1\bin\Debug\net8.0\WebScrapping-CP1.dll
+G:\2TDSPF\Advanced Business Development with .NET\WebScrapping-CP1\WebScrapping-CP1\bin\Debug\net8.0\WebScrapping-CP1.pdb
+G:\2TDSPF\Advanced Business Development with .NET\WebScrapping-CP1\WebScrapping-CP1\obj\Debug\net8.0\WebScrapping-CP1.GeneratedMSBuildEditorConfig.editorconfig
+G:\2TDSPF\Advanced Business Development with .NET\WebScrapping-CP1\WebScrapping-CP1\obj\Debug\net8.0\WebScrapping-CP1.AssemblyInfoInputs.cache
+G:\2TDSPF\Advanced Business Development with .NET\WebScrapping-CP1\WebScrapping-CP1\obj\Debug\net8.0\WebScrapping-CP1.AssemblyInfo.cs
+G:\2TDSPF\Advanced Business Development with .NET\WebScrapping-CP1\WebScrapping-CP1\obj\Debug\net8.0\WebScrapping-CP1.csproj.CoreCompileInputs.cache
+G:\2TDSPF\Advanced Business Development with .NET\WebScrapping-CP1\WebScrapping-CP1\obj\Debug\net8.0\WebScrapping-CP1.dll
+G:\2TDSPF\Advanced Business Development with .NET\WebScrapping-CP1\WebScrapping-CP1\obj\Debug\net8.0\refint\WebScrapping-CP1.dll
+G:\2TDSPF\Advanced Business Development with .NET\WebScrapping-CP1\WebScrapping-CP1\obj\Debug\net8.0\WebScrapping-CP1.pdb
+G:\2TDSPF\Advanced Business Development with .NET\WebScrapping-CP1\WebScrapping-CP1\obj\Debug\net8.0\WebScrapping-CP1.genruntimeconfig.cache
+G:\2TDSPF\Advanced Business Development with .NET\WebScrapping-CP1\WebScrapping-CP1\obj\Debug\net8.0\ref\WebScrapping-CP1.dll
+G:\2TDSPF\Advanced Business Development with .NET\WebScrapping-CP1\WebScrapping-CP1\obj\Debug\net8.0\WebScrapping-CP1.csproj.AssemblyReference.cache
+G:\2TDSPF\Advanced Business Development with .NET\WebScrapping-CP1\WebScrapping-CP1\bin\Debug\net8.0\HtmlAgilityPack.dll
+G:\2TDSPF\Advanced Business Development with .NET\WebScrapping-CP1\WebScrapping-CP1\obj\Debug\net8.0\WebScrap.02DA416F.Up2Date
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\bin\Debug\net8.0\WebScrapping-CP1.exe
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\bin\Debug\net8.0\WebScrapping-CP1.deps.json
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\bin\Debug\net8.0\WebScrapping-CP1.runtimeconfig.json
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\bin\Debug\net8.0\WebScrapping-CP1.dll
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\bin\Debug\net8.0\WebScrapping-CP1.pdb
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\obj\Debug\net8.0\WebScrapping-CP1.csproj.AssemblyReference.cache
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\obj\Debug\net8.0\WebScrapping-CP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\obj\Debug\net8.0\WebScrapping-CP1.AssemblyInfoInputs.cache
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\obj\Debug\net8.0\WebScrapping-CP1.AssemblyInfo.cs
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\obj\Debug\net8.0\WebScrapping-CP1.csproj.CoreCompileInputs.cache
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\obj\Debug\net8.0\WebScrapping-CP1.sourcelink.json
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\obj\Debug\net8.0\WebScrap.02DA416F.Up2Date
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\obj\Debug\net8.0\WebScrapping-CP1.dll
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\obj\Debug\net8.0\refint\WebScrapping-CP1.dll
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\obj\Debug\net8.0\WebScrapping-CP1.pdb
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\obj\Debug\net8.0\WebScrapping-CP1.genruntimeconfig.cache
+C:\Users\Srta.Joyce\RiderProjects\WebScrapping1\WebScrapping-CP1\obj\Debug\net8.0\ref\WebScrapping-CP1.dll
